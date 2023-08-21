@@ -1,0 +1,10 @@
+Livro de referencias javascript
+
+javascript : o guia definitivo
+java script : guia do programador
+
+guia de referemcias mozilla js
+https://developer.mozilla.org/pt-BR/docs/Web
+
+guia de referencia ecman js
+https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
